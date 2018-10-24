@@ -1,0 +1,89 @@
+body{
+    margin: 0;    
+    background-color: #2ccd70;
+}
+
+#linha {
+    margin: 6px;
+  }
+
+.banner{
+    background-image: url(../img/background.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: space-around;
+}
+
+.container{
+    width: 30%;
+}
+
+
+h1{
+    font-family: 'Pacifico', cursive;
+    color: white;
+    text-align: center;
+}
+
+h2{
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+}
+
+.bh{
+    color: white;
+}
+
+.icons:hover {
+    background-color: #2ccd70;
+    border-radius: 140px;
+    width: 30px;
+}
+
+li{
+    display: inline;
+    list-style: none;
+}
+
+.maobanner{
+    width: 80%;
+}
+
+
+
+.pontoHeader{
+    display: flex;
+}
+
+.ponto{
+    color: #2ccd70;
+}
+
+.terceiraParte {
+    display: flex;
+    justify-content: space-between;
+    background-color: #e3e3e3;
+}
+
+p{
+    color: #aaaaaa;
+}
+
+.btn{
+    background-color: #2ccd70;
+    color: wheat;
+}
+
+.clTexto {
+    text-align: center;
+    margin: 10%;
+}
+
+.video{
+    margin: 40px;
+}
+
+.ytube{
+    border-radius: 2%;
+}
